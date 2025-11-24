@@ -20,6 +20,7 @@ The main goal of this repository is to:
 Some projects you may find in this repo:
 
 * Color picker & theme changer
+* Traffic lights
 
 More projects will be added regularly as new ideas are explored.
 
