@@ -21,6 +21,7 @@ Some projects you may find in this repo:
 
 * Color picker & theme changer
 * Traffic lights
+* Tip calculator
 
 More projects will be added regularly as new ideas are explored.
 
