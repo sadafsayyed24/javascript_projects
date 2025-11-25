@@ -23,6 +23,7 @@ Some projects you may find in this repo:
 * Traffic lights
 * Tip calculator
 * Addition game
+* Random Color Generator
 
 More projects will be added regularly as new ideas are explored.
 
