@@ -24,6 +24,7 @@ Some projects you may find in this repo:
 * Tip calculator
 * Addition game
 * Random Color Generator
+* Button Maker
 
 More projects will be added regularly as new ideas are explored.
 
