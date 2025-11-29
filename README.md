@@ -25,6 +25,8 @@ Some projects you may find in this repo:
 * Addition game
 * Random Color Generator
 * Button Maker
+* Image Resizing
+* Movie Reviews
 
 More projects will be added regularly as new ideas are explored.
 
