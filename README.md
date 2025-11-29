@@ -27,6 +27,7 @@ Some projects you may find in this repo:
 * Button Maker
 * Image Resizing
 * Movie Reviews
+* Click Counter
 
 More projects will be added regularly as new ideas are explored.
 
