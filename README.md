@@ -28,6 +28,7 @@ Some projects you may find in this repo:
 * Image Resizing
 * Movie Reviews
 * Click Counter
+* Time Bomb
 
 More projects will be added regularly as new ideas are explored.
 
