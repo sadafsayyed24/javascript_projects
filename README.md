@@ -29,6 +29,7 @@ Some projects you may find in this repo:
 * Movie Reviews
 * Click Counter
 * Time Bomb
+* Wikipedia Search
 
 More projects will be added regularly as new ideas are explored.
 
